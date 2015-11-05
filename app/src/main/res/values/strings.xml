@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="action_settings">Settings</string>
+    <string name="Peso">Informe seu Peso (Kg)</string>
+    <string name="Altura">Informe sua Altura (m)</string>
+    <string name="total">CALCULAR IMC</string>
+    <string name="Resultado">Seu IMC é:</string>
+    <string name="Titulo">Calculador de IMC</string>
+
+    <string name="abaixo">Você esta no peso...IMC =</string>
+    <string name="bom">Peso ideal...IMC =   </string>
+    <string name="poucoacima">Está um pouco acima do peso...IMC = </string>
+    <string name="grau1">Obesidade 1º...IMC = </string>
+    <string name="grau2">Obsidade 2º(Severa)...IMC =</string>
+    <string name="grau3">Obseidade 3º OU Morfobica... IMC =</string>
+
+
+
+    
+</resources>

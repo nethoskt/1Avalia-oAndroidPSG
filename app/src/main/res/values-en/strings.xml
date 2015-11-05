@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="action_settings">Settings</string>
+    <string name="Peso">Enter your weight (kg)</string>
+    <string name="Altura">Enter your height (m)</string>
+    <string name="total">Calculate BMI</string>
+    <string name="Resutado">Your imc is:</string>
+    <string name="Titulo">BMI Calculator</string>
+
+    <string name="abaixo">You are in weight : =</string>
+    <string name="bom">Ideal weight :   </string>
+    <string name="poucoacima">Está um pouco acima do peso :</string>
+    <string name="grau1">obesity 1º:</string>
+    <string name="grau2">obesity 2º: =</string>
+    <string name="grau3">obesity 3º: =</string>
+
+    
+</resources>
